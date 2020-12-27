@@ -19,7 +19,6 @@ sudo -H pip3 install -r requirements.txt
 
 ## Learning End-to-End Goal-Oriented Dialog
 
-![](https://camo.githubusercontent.com/ba1c7dbbccc5dd51d4a76cc6ef849bca65a9bf4d/687474703a2f2f692e696d6775722e636f6d2f6e7638394a4c632e706e67)
 
 ```bash
 # run main.py without arguments, for usage information
@@ -31,7 +30,7 @@ python3 main.py --train --task_id=3 --log_file=log.task3.txt
 ```
 
 
-![](images/architecture.png)
+![](memn2n/images/architecture.png)
 
 
 ### Results
@@ -45,4 +44,4 @@ Task  |  Training Accuracy  |  Validation Accuracy  |
 5     |  100               |  98.42		            |
 6     |  76.61               |  47.08		            |
 
-![](images/visualisation.png)
+![](memn2n/images/visualisation.png)
