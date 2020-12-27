@@ -1,12 +1,11 @@
-# chatbot_memn2n
+# Implementation of Deep Learning Method for Task-Oriented Dialog Model
+
 Deep Learning Assignment with Mrs. Afiahayati, S.Kom., M.Cs., Ph.D
 ####
 Nadhifa Sofia | 20/468173/SPA/00739
 ###
 This is the submission in order to get A on deep learning subject
 
-
-## Implementation of Deep Learning Method for Task-Oriented Dialog Model
 
 
 ## Setup
