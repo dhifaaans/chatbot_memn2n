@@ -1,5 +1,6 @@
 # chatbot_memn2n
 Deep Learning Assignment with Mrs. Afiahayati, S.Kom., M.Cs., Ph.D
+####
 Nadhifa Sofia | 20/468173/SPA/00739
 
 
