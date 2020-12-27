@@ -1,7 +1,8 @@
 # chatbot_memn2n
 Deep Learning Assignment with Mrs. Afiahayati, S.Kom., M.Cs., Ph.D
+Nadhifa Sofia | 20/468173/SPA/00739
 
-## Nadhifa Sofia | 20/468173/SPA/00739
+
 ## Implementation of Deep Learning Method for Task-Oriented Dialog Model
 
 This is the submission in order to get A on deep learning subject
@@ -28,7 +29,10 @@ sudo -H pip3 install -r requirements.txt
 python3 main.py --train --task_id=3 --log_file=log.task3.txt
 ```
 
+
 ![](images/architecture.png)
+
+
 ### Results
 
 Task  |  Training Accuracy  |  Validation Accuracy  |
