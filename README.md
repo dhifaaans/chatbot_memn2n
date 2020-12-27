@@ -2,11 +2,11 @@
 Deep Learning Assignment with Mrs. Afiahayati, S.Kom., M.Cs., Ph.D
 ####
 Nadhifa Sofia | 20/468173/SPA/00739
+###
+This is the submission in order to get A on deep learning subject
 
 
 ## Implementation of Deep Learning Method for Task-Oriented Dialog Model
-
-This is the submission in order to get A on deep learning subject
 
 
 ## Setup
@@ -30,8 +30,6 @@ python3 main.py --train --task_id=3 --log_file=log.task3.txt
 ```
 
 
-![](memn2n/images/architecture.png)
-
 
 ### Results
 
@@ -43,5 +41,7 @@ Task  |  Training Accuracy  |  Validation Accuracy  |
 4     |  100               |  56.67		            |
 5     |  100               |  98.42		            |
 6     |  76.61               |  47.08		            |
+
+![](memn2n/images/architecture.png)
 
 ![](memn2n/images/visualisation.png)
